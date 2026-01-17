@@ -1,0 +1,21 @@
+{
+  "Group": "Hytale",
+  "Name": "HytaleMavenPl",
+  "Version": "1.0.0",
+  "Description": "A sample plugin",
+  "Main": "com.example.Plugin",
+  "Authors": [
+    {
+      "Name": "Ruski",
+      "Email": "example@example.com",
+      "Url": "https://example.com"
+    }
+  ],
+  "Website": "https://example.com/HytalePlugin",
+  "ServerVersion": ">=0.0.1",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}

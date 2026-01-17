@@ -1,0 +1,4 @@
+com\example\commands\ClearInventory.class
+com\example\PluginConfiguration.class
+com\example\listeners\PlayerEvents.class
+com\example\Plugin.class

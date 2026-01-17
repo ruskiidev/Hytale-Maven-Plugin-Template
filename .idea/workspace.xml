@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="224a0390-9e59-4bb4-aec6-b75bf9a898cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Plugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/PluginConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ruski/plugins/HytaleBaseMavenPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/ruski/plugins/commands/ClearInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/commands/ClearInventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/libs/HytaleServer.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/manifest.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="38L292xEjhTnbTSUVJzvj3Zrb03" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.HytaleBaseMavenPlugin [clean,package].executor": "Run",
+    "Maven.HytaleUtils [-pl,HytaleUtils,-am,clean...].executor": "Run",
+    "Maven.HytaleUtils [clean,install,-U].executor": "Run",
+    "Maven.HytaleUtils [clean,install].executor": "Run",
+    "Maven.HytaleUtils [clean,package].executor": "Run",
+    "Maven.HytaleUtils [install:install-file,^...].executor": "Run",
+    "Maven.HytaleUtils [install:install-file...].executor": "Run",
+    "Maven.HytaleUtils [mvn,-pl,HytaleUtils,-am...].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ruski/IdeaProjects/HytaleMavenPl",
+    "onboarding.tips.debug.path": "C:/Users/ruski/IdeaProjects/HytaleUtils/src/main/java/me/ruski/plugins/Main.java",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruski\IdeaProjects\HytaleUtils\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ruski\IdeaProjects\HytaleBaseMavenPlugin\src\main\resources\libs" />
+      <recent name="C:\Users\ruski\IdeaProjects\HytaleUtils\src\main\resources\libs" />
+      <recent name="C:\Users\ruski\IdeaProjects\HytaleUtils\src\main\resources" />
+      <recent name="C:\Users\ruski\IdeaProjects\HytaleUtils\src\main\resources\libs\com.hytale\latest" />
+      <recent name="C:\Users\ruski\IdeaProjects\HytaleUtils\src\main\resources\libs\com.hytale" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install:install-file -Dfile=&quot;src/main/resources/libs/HytaleServer.jar&quot; -DgroupId=&quot;com.hytale&quot; -DartifactId=&quot;HytaleServer&quot; -Dversion=&quot;1.0&quot; -Dpackaging=&quot;jar&quot;" />
+      <command value="mvn install:install-file -Dfile=src/main/resources/libs/HytaleServer.jar -DgroupId=&quot;com.hytale&quot; -DartifactId=&quot;HytaleServer&quot; -Dversion=&quot;1.0&quot; -Dpackaging=&quot;jar&quot;" />
+      <command value="mvn mvn -pl HytaleUtils -am clean install" />
+      <command value="mvn -pl HytaleUtils -am clean install" />
+      <command value="mvn install:install-file –Dfile=${project.basedir}\src\resources\libs\HytaleServer.jar -DgroupId=com.hytale -DartifactId=HytaleServer -Dversion=latest" />
+      <command value="mvn install:install-file ^   -Dfile=src\resources\libs\HytaleServer.jar ^   -DgroupId=com.hytale ^   -DartifactId=HytaleServer ^   -Dversion=1.0.0 ^   -Dpackaging=jar " />
+      <command value="mvn install:install-file ^   -Dfile=src\main\resources\libs\HytaleServer.jar ^   -DgroupId=com.hytale ^   -DartifactId=HytaleServer ^   -Dversion=1.0.0 ^   -Dpackaging=jar " />
+      <command value="mvn install:install-file ^   -Dfile=src\main\resources\libs\HytaleServer.jar ^   -DgroupId=com.hytale ^   -DartifactId=HytaleServer ^   -Dversion=1.0.0 ^   -Dpackaging=jar ^   -DgeneratePom=true" />
+      <command value="mvn clean install -U" />
+      <command value="mvn clean install" />
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HytaleMavenPl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HytaleMavenPl" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HytaleBaseMavenPlugin [clean,package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="224a0390-9e59-4bb4-aec6-b75bf9a898cc" name="Changes" comment="" />
+      <created>1768490238777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768490238777</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
